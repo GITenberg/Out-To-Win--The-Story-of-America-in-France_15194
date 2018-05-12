@@ -1,0 +1,34 @@
+_repo: Out-To-Win--The-Story-of-America-in-France_15194
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dawson, Coningsby
+    aliases:
+    - Dawson, Coningsby W. (Coningsby William)
+    - Dawson, Coningsby William
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '2497'
+    url: http://www.gutenberg.org/2009/agents/2497
+    wikipedia: http://en.wikipedia.org/wiki/Coningsby_Dawson
+description: ''
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- World War I
+gutenberg_issued: '2005-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15194'
+  lccn: '18013230'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- United States'
+- !lcc 'D501'
+title: 'Out To Win: The Story of America in France'
+url: http://www.gutenberg.org/ebooks/15194
